@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
+<h1 align="center">Welcome to my Github, I'm John Garvey</h1>
 
 <p align="center">
   Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
@@ -21,17 +21,17 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+  </a>
 </p>
 
 <hr>
@@ -40,7 +40,7 @@
 
 - 🎓 **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
 - 🎓 **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
-- ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🚀).
+- ⚙️ **Current Obsession:** Prototyping a IoT smart door system with handle and hinge (Patent Pending! 🚀).
 - ☁️ **Certification:** AWS Certified Cloud Practitioner.
 - 🤝 **Community:** Devoted to community outreach and volunteer work.
 - 🎨 **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
@@ -110,7 +110,7 @@
   <img src="https://komarev.com/ghpvc/?username=jgarvey928&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" height="30" />
 </p>
 
-<h3 align="center">📅 3D Contribution History</h3>
+<h3>📅 3D Contribution History</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
