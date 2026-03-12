@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image_2ce699.jpg" alt="John Garvey Banner" width="100%" />
+  <img src="banner.jpg" alt="John Garvey Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm John 👋</h1>
