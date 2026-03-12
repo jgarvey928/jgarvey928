@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="coding_screen.gif" alt="Current Scrolling Code" width="50%" style="border: 2px solid #ddd; border-radius: 8px; max-height: 400px; object-fit: cover;" />
-</p>
-
-<p align="center">
 Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
   <br>
   📍 Arizona
