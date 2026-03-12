@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
+<h1 align="center">Welcome to my Github, I'm John 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -32,4 +32,57 @@
 <p align="center">
   <strong>Tools, Cloud & Concepts</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
+</p>
+
+<p align="center">
+Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
+  <br>
+  📍 Arizona
+</p>
+
+<hr>
+
+### 👨‍💻 About Me
+
+- 🎓 **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
+- 🎓 **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
+- ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Provisional Patent Filed! 🚀).
+- ☁️ **Certification:** AWS Certified Cloud Practitioner.
+- 🤝 **Community:** Passionate about community outreach and volunteer work.
+- 🎨 **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
+
+<hr>
+
+### 🚀 Highlighted Projects & Experience
+
+* 💡 **IoT Smart Hardware Architecture:** Engineered a functional prototype integrating low-level hardware control (Nema 11 motors) with software logic for automated environments. 
+* 🎮 **Interactive Web Game:** Developed a fully playable browser-based checkers game built entirely with the "holy three of web dev" (HTML, CSS, and JavaScript).
+* 📊 **Displaced Voices Project:** Collaborated with the ASU Library's Unit for Data Science & Analytics to analyze, structure, and present complex open-source datasets.
+
+<hr>
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarvey928&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<hr>
+
+### 📖 Brief Bio
+I am a dedicated software engineer who thrives on bridging the gap between complex software logic and physical hardware. My technical journey spans across full-stack web development, distributed systems, data science, and low-level IoT prototyping. Whether I am architecting cloud solutions, engineering mechanical prototypes, or studying advanced computing concepts for my master's degree, I am driven by a passion for continuous learning and problem-solving. Outside of coding, I am an advocate for community service, an avid comic book reader, and a DIY electronics maker. 
+
+<hr>
+
+<p align="center">
+  <a href="mailto:jgarvey928@ieee.org">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/john-s-garvey/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
