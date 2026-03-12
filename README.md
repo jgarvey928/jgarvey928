@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="banner.jpg" alt="John Garvey Banner" width="100%" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>>
 
 <h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
 
@@ -116,16 +120,6 @@ Recent honors graduate in software engineering and current Georgia Tech computer
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
     <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
     <img alt="3D Isometric GitHub Commits" src="profile-3d-contrib/profile-green-animate.svg">
-  </picture>
-</p>
-
-<hr>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
