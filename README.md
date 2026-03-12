@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="image_2ce699.jpg" alt="John Garvey Banner" width="100%" />
+  <img src="banner.jpg" alt="John Garvey Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there, I'm John 👋</h1>
+<h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,6 +11,7 @@
 </p>
 
 <hr>
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
@@ -23,7 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VBA-0A1B29?style=for-the-badge&logo=visual-basic&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/VBA-0A1B29?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA" />
 </p>
 
 <p align="center">
@@ -41,12 +42,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/OpenClaw-444444?style=for-the-badge&logoColor=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/OpenClaw-444444?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="OpenClaw" />
   <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
 </p>
 
@@ -71,6 +72,8 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 
 ### 🚀 Highlighted Projects & Experience
 
+> 🌐 **Note:** All interactive and remote environment projects can be found on my [Project Portfolio](https://jgarvey928.github.io/jsgarveyportfolio.io/).
+
 * 💡 **IoT Smart Hardware Architecture:** Engineered a functional prototype integrating low-level hardware control (Nema 11 motors) with software logic for automated environments. 
 * 🎮 **Interactive Web Game:** Developed a fully playable browser-based checkers game built entirely with the "holy three of web dev" (HTML, CSS, and JavaScript).
 * 📊 **Displaced Voices Project:** Collaborated with the ASU Library's Unit for Data Science & Analytics to analyze, structure, and present complex open-source datasets.
@@ -80,13 +83,16 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <hr>
 
 <p align="center">
+  <a href="https://jgarvey928.github.io/jsgarveyportfolio.io/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-252525?style=for-the-badge" alt="Portfolio" />
+  </a>
   <a href="mailto:jgarvey928@ieee.org">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
