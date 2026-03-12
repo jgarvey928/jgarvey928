@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
   </picture>
-</p>>
+</p>
 
 <h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
 
