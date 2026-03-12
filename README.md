@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+  <img src="coding_screen.gif" alt="Current Scrolling Code" width="50%" style="border: 2px solid #ddd; border-radius: 8px; max-height: 400px; object-fit: cover;" />
+</p>
+
+<p align="center">
 Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
   <br>
   📍 Arizona
@@ -92,6 +96,14 @@ Recent honors graduate in software engineering and current Georgia Tech computer
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D Isometric GitHub Commits" src="profile-3d-contrib/profile-green-animate.svg">
   </picture>
 </p>
 
