@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="image_2ce699.jpg" alt="John Garvey Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi there, I'm John 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,7 +60,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 
 - 🎓 **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
 - 🎓 **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
-- ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Provisional Patent Filed! 🚀).
+- ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🚀).
 - ☁️ **Certification:** AWS Certified Cloud Practitioner.
 - 🤝 **Community:** Devoted to community outreach and volunteer work.
 - 🎨 **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
