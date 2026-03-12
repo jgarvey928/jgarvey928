@@ -89,6 +89,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://profile-counter.glitch.me/jgarvey928/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center">
