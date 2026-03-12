@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/john-s-garvey/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
 - 🎓 **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
 - 🎓 **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
-- ⚙️ **Current Obsession:** Prototyping a IoT smart door system with handle and hinge (Patent Pending! 🚀).
+- ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🚀).
 - ☁️ **Certification:** AWS Certified Cloud Practitioner.
 - 🤝 **Community:** Devoted to community outreach and volunteer work.
 - 🎨 **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
@@ -58,8 +58,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VBA-0A1B29?style=for-the-badge&v=2" alt="VBA" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VBA-0A1B29?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" />
 </p>
 
 <p align="center">
@@ -77,13 +77,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&v=2" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&v=2" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=msexcel&logoColor=white&v=2" alt="Excel" />
-  <img src="https://img.shields.io/badge/OpenClaw-444444?style=for-the-badge&logo=openclaw&logoColor=white&v=2" alt="OpenClaw" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/APIs-444444?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge" alt="Networking" />
 </p>
 
 <hr>
@@ -110,12 +110,12 @@
   <img src="https://komarev.com/ghpvc/?username=jgarvey928&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" height="30" />
 </p>
 
-<h3>📅 3D Contribution History</h3>
+<h3 align="center">📅 3D Contribution History</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
-    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
-    <img alt="3D Isometric GitHub Commits" src="profile-3d-contrib/profile-green-animate.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-south-season-animate.svg">
+    <img alt="3D Isometric GitHub Commits" src="profile-3d-contrib/profile-night-rainbow.svg">
   </picture>
 </p>
 
