@@ -75,16 +75,16 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarvey928&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <hr>
 
 <p align="center">
   <a href="mailto:jgarvey928@ieee.org">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/john-s-garvey/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
