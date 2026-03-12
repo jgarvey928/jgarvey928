@@ -1,4 +1,10 @@
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgarvey928/jgarvey928/output/github-contribution-grid-snake.svg">
@@ -6,9 +12,13 @@
   </picture>
 </p>
 
+<hr>
+
 <h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
 
 <p align="center">
+Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
+  <p align="center">
   <a href="https://jgarvey928.github.io/jsgarveyportfolio.io/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-252525?style=for-the-badge" alt="Portfolio" />
   </a>
@@ -18,24 +28,10 @@
   <a href="https://www.linkedin.com/in/john-s-garvey/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn" />
   </a>
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="coding_screen.gif" alt="Current Scrolling Code" width="50%" style="border: 2px solid #ddd; border-radius: 8px; max-height: 400px; object-fit: cover;" />
-</p>
-
-<p align="center">
-Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
-  <br>
+  </p>
+  <p align="center">
   📍 Arizona
+  </p>
 </p>
 
 <hr>
