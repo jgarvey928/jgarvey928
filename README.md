@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;M.S.+CS+Student+%40+Georgia+Tech;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,8 +17,10 @@
 <h1 align="center">Welcome to my Github, I'm John Garvey 👋</h1>
 
 <p align="center">
-Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
-  <p align="center">
+  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
+</p>
+
+<p align="center">
   <a href="https://jgarvey928.github.io/jsgarveyportfolio.io/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-252525?style=for-the-badge" alt="Portfolio" />
   </a>
@@ -28,10 +30,10 @@ Recent honors graduate in software engineering and current Georgia Tech computer
   <a href="https://www.linkedin.com/in/john-s-garvey/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" alt="LinkedIn" />
   </a>
-  </p>
-  <p align="center">
+</p>
+
+<p align="center">
   📍 Arizona
-  </p>
 </p>
 
 <hr>
@@ -58,8 +60,8 @@ Recent honors graduate in software engineering and current Georgia Tech computer
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VBA-0A1B29?style=for-the-badge&logo=microsoft&logoColor=white&v=2" alt="VBA" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/VBA-0A1B29?style=for-the-badge&v=2" alt="VBA" />
 </p>
 
 <p align="center">
@@ -81,8 +83,8 @@ Recent honors graduate in software engineering and current Georgia Tech computer
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&v=2" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&v=2" alt="Excel" />
-  <img src="https://img.shields.io/badge/OpenClaw-444444?style=for-the-badge&logo=open-source-initiative&logoColor=white&v=2" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=msexcel&logoColor=white&v=2" alt="Excel" />
+  <img src="https://img.shields.io/badge/OpenClaw-444444?style=for-the-badge&logo=openclaw&logoColor=white&v=2" alt="OpenClaw" />
   <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
 </p>
 
@@ -92,7 +94,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 
 > 🌐 **Note:** All interactive and remote environment projects can be found on my [Project Portfolio](https://jgarvey928.github.io/jsgarveyportfolio.io/).
 
-* 💡 **IoT Smart Hardware Architecture:** Engineered a functional prototype integrating low-level hardware control (Nema 11 motors) with software logic for automated environments. 
+* 💡 **IoT Smart Hardware Architecture:** Engineered a functional prototype integrating low-level hardware control (Nema 11 motors) with software logic for automated environments.
 * 🎮 **Interactive Web Game:** Developed a fully playable browser-based checkers game built entirely with the "holy three of web dev" (HTML, CSS, and JavaScript).
 * 📊 **Displaced Voices Project:** Collaborated with the ASU Library's Unit for Data Science & Analytics to analyze, structure, and present complex open-source datasets.
 
