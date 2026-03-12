@@ -84,12 +84,12 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 
 <hr>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjgarvey928&count_bg=%2336BCF7&title_bg=%23252525&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true" alt="Visitor Count" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=36BCF7&label=TOTAL+VIEWS&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fjgarvey928%2Fvisits&style=for-the-badge&logo=github&logoColor=white" alt="Visitor Count" height="40" />
 </p>
 
 <p align="center">
@@ -100,6 +100,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
   </picture>
 </p>
 
+<h3 align="center">📅 3D Contribution History (Trailing 12 Months)</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
