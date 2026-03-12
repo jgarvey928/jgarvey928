@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github, I'm John 👋</h1>
+<h1 align="center">Hi there, I'm John 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <strong>Languages & Databases</strong><br>
+  <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
@@ -19,21 +19,28 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 <p align="center">
   <strong>Hardware & OS</strong><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 <p align="center">
   <strong>Tools, Cloud & Concepts</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenClaw-444444?style=for-the-badge&logoColor=white" alt="OpenClaw" />
   <img src="https://img.shields.io/badge/TCP%2FIP-000000?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
 </p>
 
@@ -51,7 +58,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 - 🎓 **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
 - ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Provisional Patent Filed! 🚀).
 - ☁️ **Certification:** AWS Certified Cloud Practitioner.
-- 🤝 **Community:** Passionate about community outreach and volunteer work.
+- 🤝 **Community:** Devoted to community outreach and volunteer work.
 - 🎨 **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
 
 <hr>
@@ -70,11 +77,6 @@ Recent honors graduate in software engineering and current Georgia Tech computer
   <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgarvey928&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<hr>
-
-### 📖 Brief Bio
-I am a dedicated software engineer who thrives on bridging the gap between complex software logic and physical hardware. My technical journey spans across full-stack web development, distributed systems, data science, and low-level IoT prototyping. Whether I am architecting cloud solutions, engineering mechanical prototypes, or studying advanced computing concepts for my master's degree, I am driven by a passion for continuous learning and problem-solving. Outside of coding, I am an advocate for community service, an avid comic book reader, and a DIY electronics maker. 
 
 <hr>
 
