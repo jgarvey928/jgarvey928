@@ -114,7 +114,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
   <img src="https://komarev.com/ghpvc/?username=jgarvey928&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" height="30" />
 </p>
 
-<h3>📅 3D Contribution History</h3>
+<h3 align="center">📅 3D Contribution History</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg">
@@ -124,3 +124,7 @@ Recent honors graduate in software engineering and current Georgia Tech computer
 </p>
 
 <hr>
+
+<p align="center">
+  <img src="thumbs_up.gif" width="300" alt="Thumbs Up" />
+</p>
