@@ -41,7 +41,7 @@
 - **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🛠️).
 - **Certification:** AWS Certified Cloud Practitioner.
 - **Community:** Devoted to community outreach and volunteer work.
-- **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
+- **Off-Screen:** Tinkering, learning, reading Mike Mignola comics, and hanging out with my Louie dog.
 
 <hr>
 
