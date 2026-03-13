@@ -104,7 +104,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=blue-green&hide_border=true&hide_rank=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=blue-green" alt="Profile Details" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical" alt="Profile Details" height="170" />
 </p>
 
 <p align="center">
