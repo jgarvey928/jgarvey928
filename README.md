@@ -1,10 +1,6 @@
 <h1 align="center">Welcome to John Garvey's Github</h1>
 
 <p align="center">
-  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software architecture, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
-</p>
-
-<p align="center">
   <a href="https://jgarvey928.github.io/jsgarveyportfolio.io/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-252525?style=for-the-badge" alt="Portfolio" />
   </a>
@@ -17,9 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;AWS+Certified+Cloud+Practitioner;SWE+Honors+Grad.+from+ASU;M.S.+CS+Student+%40+Georgia+Tech;" alt="Typing SVG" />
-  </a>
+  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software architecture, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
 </p>
 
 <p align="center">
@@ -30,6 +24,11 @@
   </picture>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Analyst;AWS+Certified+Cloud+Practitioner;SWE+Honors+Grad.+from+ASU;M.S.+CS+Student+%40+Georgia+Tech;" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
