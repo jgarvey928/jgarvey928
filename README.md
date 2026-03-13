@@ -34,8 +34,10 @@
 
 ### 👨‍💻 About Me
 
-- **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
-- **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
+- **Experience:** Software Engineering Intern doing R&D of mesh networks on Android devices at *Greybox Technologies*  
+- **Education:**
+  - Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
+  - Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
 - **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🛠️).
 - **Certification:** AWS Certified Cloud Practitioner.
 - **Community:** Devoted to community outreach and volunteer work.
