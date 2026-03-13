@@ -34,12 +34,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
-- 🎓 **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
-- ⚙️ **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🚀).
-- ☁️ **Certification:** AWS Certified Cloud Practitioner.
-- 🤝 **Community:** Devoted to community outreach and volunteer work.
-- 🎨 **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
+- **Current Education:** Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
+- **Previous Education:** Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
+- **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🛠️).
+- **Certification:** AWS Certified Cloud Practitioner.
+- **Community:** Devoted to community outreach and volunteer work.
+- **Off-Screen:** Tinkering with DIY electronics, reading Mike Mignola comics, and hanging out with my Louie dog.
 
 <hr>
 
@@ -85,9 +85,9 @@
 
 <hr>
 
-### 🚀 Highlighted Projects & Experience
+### 🚀 Projects 
 
-> 🌐 **Note:** All interactive and remote environment projects can be found on my [Project Portfolio](https://jgarvey928.github.io/jsgarveyportfolio.io/).
+> **Note:** All interactive and remote environment projects can be found on my [Project Portfolio](https://jgarvey928.github.io/jsgarveyportfolio.io/).
 
 * 💡 **IoT Smart Hardware Architecture:** Engineered a functional prototype integrating low-level hardware control (Nema 11 motors) with software logic for automated environments.
 * 🎮 **Interactive Web Game:** Developed a fully playable browser-based checkers game built entirely with the "holy three of web dev" (HTML, CSS, and JavaScript).
