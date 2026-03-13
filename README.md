@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github, I'm John Garvey</h1>
 
 <p align="center">
-  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software systems, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
+  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software architecture, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
 </p>
 
 <p align="center">
