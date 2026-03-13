@@ -102,9 +102,21 @@
 ### 📈 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=blue-green&hide_border=true&hide_rank=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical" alt="Profile Details" height="170" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=blue-green&hide_border=true&hide_rank=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=github&hide_border=true&hide_rank=true">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=blue-green&hide_border=true&hide_rank=true" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=blue-green&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=github&hide_border=true">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=blue-green&hide_border=true" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=default">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical" height="300">
+  </picture>
 </p>
 
 <p align="center">
