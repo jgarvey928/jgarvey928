@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/john-s-garvey/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://jgarvey928.github.io/jsgarveyportfolio.io/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-252525?style=for-the-badge" alt="Portfolio" />
@@ -36,10 +36,10 @@
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
   <img src="https://img.shields.io/badge/JavaScript-FCC624?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&cache=1" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white&cache=1" alt="CSS3" />
   <img src="https://img.shields.io/badge/R-100000?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" />
+  <img src="https://img.shields.io/badge/⊞_VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="VBA" />
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/⊞_Windows-0078D6?style=for-the-badge" alt="Windows" />
   <img src="https://img.shields.io/badge/MacOS-5E3A29?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
 </p>
 
@@ -60,8 +60,8 @@
   <img src="https://img.shields.io/badge/☁️_AWS-232F3E?style=for-the-badge" alt="AWS" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Tableau-FCC624?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Tableau-FCC624?style=for-the-badge&logo=owncloud&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/🌐_TCP%2FIP-000000?style=for-the-badge" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/APIs-E95420?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
 </p>
