@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my Github, I'm John Garvey</h1>
 
 <p align="center">
-  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software development, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
+  Recent honors graduate in software engineering and current Georgia Tech computer science masters student with hands-on experience in software systems, distributed systems, and full-stack development. Highly skilled in multiple programming paradigms, with a strong foundation in data structures, algorithms, database management and cloud deployment.
 </p>
 
 <p align="center">
@@ -30,25 +30,8 @@
   </picture>
 </p>
 
-<hr>
-
-### 👨‍💻 About Me
-
-- **Experience:** Software Engineering Intern doing R&D of mesh networks on Android devices at *Greybox Technologies*  
-- **Education:**
-  - Pursuing my **M.S. in Computer Science** at the *Georgia Institute of Technology*.
-  - Honors graduate with a B.S. in Software Engineering from *Arizona State University*.
-- **Current Obsession:** Prototyping a smart, remote-controlled door hinge utilizing Raspberry Pi Pico, custom sensors, and mechanical clutches (Patent Pending! 🛠️).
-- **Certification:** AWS Certified Cloud Practitioner.
-- **Community:** Devoted to community outreach and volunteer work.
-- **Off-Screen:** Tinkering, learning, reading Mike Mignola comics, and hanging with my Louie dog.
-
-<hr>
-
-### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <strong>Languages</strong><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-006400?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2F%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++" />
@@ -61,7 +44,6 @@
 </p>
 
 <p align="center">
-  <strong>Hardware & OS</strong><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&v=3" alt="Debian" />
@@ -72,7 +54,6 @@
 </p>
 
 <p align="center">
-  <strong>Tools, Cloud & Concepts</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -85,21 +66,13 @@
   <img src="https://img.shields.io/badge/APIs-E95420?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
 </p>
 
-<hr>
-
-### 🚀 Projects 
-
-> **Note:** All interactive and remote environment projects can be found on my [Project Portfolio](https://jgarvey928.github.io/jsgarveyportfolio.io/).
-
-* 💡 **IoT Smart Hardware Architecture:** Engineered a functional prototype integrating low-level hardware control (Nema 11 motors) with software logic for automated environments.
-* 🎮 **Interactive Web Game:** Developed a fully playable browser-based checkers game built entirely with the "holy three of web dev" (HTML, CSS, and JavaScript).
-* 📊 **Displaced Voices Project:** Collaborated with the ASU Library's Unit for Data Science & Analytics to analyze, structure, and present complex open-source datasets.
-
-<hr>
-
-### 📈 GitHub Stats Dashboard
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=default">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical" height="300">
+  </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=blue-green&hide_border=true&hide_rank=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=default&hide_border=true&hide_rank=true">
@@ -110,11 +83,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=default&hide_border=true">
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=blue-green&hide_border=true" height="200">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=default">
-    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical" height="300">
-  </picture>
+
 </p>
 
 <p align="center">
