@@ -102,16 +102,11 @@
 ### 📈 GitHub Stats Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=radical" alt="Profile Details" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jgarvey928&show_icons=true&theme=blue-green&hide_border=true&hide_rank=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgarvey928&layout=compact&theme=blue-green&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jgarvey928&theme=blue-green" alt="Profile Details" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jgarvey928&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" height="30" />
-</p>
-
-<h3 align="center">📅 3D Contribution History</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
@@ -122,6 +117,11 @@
 
 <hr>
 
+<!--
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jgarvey928&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Visitor Count" height="30" />
+</p>
 <p align="center">
   <img src="thumbs_up.gif" width="300" alt="Thumbs Up" />
 </p>
+-->
