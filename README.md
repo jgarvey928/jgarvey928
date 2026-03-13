@@ -81,8 +81,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/Tableau-FCC624?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/APIs-444444?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
   <img src="https://img.shields.io/badge/🌐_TCP%2FIP-000000?style=for-the-badge" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/APIs-E95420?style=for-the-badge&logo=postman&logoColor=white" alt="APIs" />
 </p>
 
 <hr>
